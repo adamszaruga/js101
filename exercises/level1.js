@@ -9,7 +9,7 @@ function lvl1exercise2 () {
 }
 
 function lvl1exercise3 () {
-  // Declare and instantiate a floating point number that isn't a whole number and return it
+  // Declare and instantiate a floating point number that is not a whole number and return it
 
 }
 
